@@ -15,10 +15,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/ganesh10O">
+<a href="https:github.com/ganesh10O">
   <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF" />
 </a>
-<a href="https://linkedin.com/in/ganesh-b">
+<a href="https:linkedin.com/in/ganesh-b">
   <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=FF00E5" />
 </a>
 <a href="mailto:ganeshbalaji765@gmail.com">
