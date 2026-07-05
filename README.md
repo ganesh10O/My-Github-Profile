@@ -1,7 +1,7 @@
 # My-Github-Profile
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:8B5CF6&height=220&section=header&text=Ganesh%20B&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20intelligent%2C%20data-driven%20solutions&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:8B5CF6&height=220&section=header&text=Ganesh%20B&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Building%20intelligent%20data-driven%20solutions&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning;Cloud+Computing" alt="Typing SVG" />
